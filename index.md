@@ -16,3 +16,9 @@ My name is Chris.
 - Hiking
 - Video games
 - Photography
+
+### Favourite Websites
+
+- [YouTube](https://youtube.com)
+- [GitHub](https://github.com)
+- [Amazon](https://amazon.ca)
