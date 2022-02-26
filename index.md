@@ -24,3 +24,7 @@ My name is Chris.
 - [Amazon](https://amazon.ca)
 
 <!-- This is a comment -->
+
+## Puppies
+
+![Yorkie Puppy](https://www.kellyskennels.co.uk/wp-content/uploads/2016/07/YorkiePoo-pups.jpg)
