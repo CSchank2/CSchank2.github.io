@@ -27,4 +27,4 @@ My name is Chris.
 
 ## Puppies
 
-![Yorkie Puppy](https://www.kellyskennels.co.uk/wp-content/uploads/2016/07/YorkiePoo-pups.jpg)
+![Yorkie Puppy](https://www.publicdomainpictures.net/pictures/30000/velka/yorkie-puppy.jpg)
